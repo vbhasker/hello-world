@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sample project with eslint and prettier configurations
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And updated with eslint and prettier configuration. This would be used a base template for any new projects with create-reate-app.
 
 ## Available Scripts
 
